@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Venkat-Banyan
-- 💼 Working at [Banyan Infotech](https://www.banyaninfotech.com/), Coimbaore
+- 👋 Hi, I’m @Venkat
+- 💼 Working at [Banyan Infotech](https://www.banyaninfotech.com/), Coimbatore
 - 📫 How to reach me ...venkat@banyaninfotech.com [or] https://www.banyaninfotech.com/
 
 <!---
