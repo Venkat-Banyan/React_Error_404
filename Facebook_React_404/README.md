@@ -11,7 +11,7 @@
 - [Material Ui](https://mui.com/)
 
 ## Developed by
-- Venat G
+- [Venat G](https://github.com/Venkat-Banyan/)
 
 ## Developed for
-- <a href="www.banyaninfotech.com">Banyan Infotech</a>
+- [Banyan Infotech](www.banyaninfotech.com)
