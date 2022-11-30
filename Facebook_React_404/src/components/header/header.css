@@ -1,0 +1,28 @@
+@media only screen and (min-width:992px) {
+    .header-container-full-width {
+        width: 100% !important;
+        height: 80px;
+        background-color: #3b5998;
+        background-image: linear-gradient(#4e69a2, #3b5998 60%);
+        border-bottom: 1px solid #133783;
+    }
+}
+
+@media only screen and (max-width:479px) {
+    .header_main_logo {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 20px;
+    }
+}
+
+.header_main_logo {
+    margin-top: 20px;
+}
+
+.header-container-full-width {
+    width: 100% !important;
+    background-color: #3b5998;
+    background-image: linear-gradient(#4e69a2, #3b5998 60%);
+    border-bottom: 1px solid #133783;
+}
