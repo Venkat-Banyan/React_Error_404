@@ -14,4 +14,4 @@
 - [Venat G](https://github.com/Venkat-Banyan/)
 
 ## Developed for
-- [Banyan Infotech](www.banyaninfotech.com)
+- [Banyan Infotech](https://www.banyaninfotech.com/)
