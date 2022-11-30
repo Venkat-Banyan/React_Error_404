@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,300;1,400&display=swap');
+
+.typography-container {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.typography-span {
+  color: #777;
+}
+
+.Button {
+  color: aquamarine;
+  background-color: aquamarine;
+}
+
+body {
+  background-image: url("../../images/GIT_bg.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 1;
+  transition: all 0.25s ease-in;
+  position: relative;
+}
+
+.git_bg_img_5 {
+  z-index: 4;
+  top: 210px;
+  width: 120px;
+  left: 980px;
+  transition: all 0.25s ease-in;
+  position: absolute;
+}
+
+.git_bg_img_4 {
+  z-index: 5;
+  top: 160px;
+  left: 650px;
+  width: 320px;
+  transform: translate3d(-9.0252px, 3.08752px, 0px);
+  position: absolute;
+}
+
+.git_bg_img_3 {
+  z-index: 6;
+  top: 240px;
+  left: 630px;
+  width: 350px;
+  transform: translate3d(1.62713px, -2.23678px, 0px);
+  position: absolute;
+}
+
+.git_bg_img_3_1 {
+  z-index: 5;
+  top: 330px;
+  left: 630px;
+  width: 350px;
+  transform: translate3d(-0.337287px, 0.19769px, 0px);
+  position: absolute;
+}
+
+.git_bg_img_2 {
+  z-index: 7;
+  top: 170px;
+  left: 540px;
+  transform: translate3d(-0.203855px, -1.81031px, 0px);
+  position: absolute;
+}
+
+.git_bg_img_2_1 {
+  z-index: 6;
+  top: 370px;
+  left: 550px;
+  transform: translate3d(-0.203855px, -1.81031px, 0px);
+  position: absolute;
+}
+
+.git_bg_img_1 {
+  z-index: 8;
+  top: 150px;
+  left: 250px;
+  transform: translate3d(4.91475px, -0.744114px, 0px);
+  position: absolute;
+}
+
+@media (max-width: 440px) {
+  .general {
+    height: auto;
+  }
+  .typography-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .footer-container {
+    margin-top: 24px;
+  }
+}
