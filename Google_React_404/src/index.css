@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  margin: 0;
+}
+
+.grid-container-a {
+  color: #b1b0b0;
+  text-decoration: none;
+}
+
+.footer-typography {
+  opacity: 0.5;
+}
