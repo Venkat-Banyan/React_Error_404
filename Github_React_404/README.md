@@ -18,3 +18,12 @@
 
 ## Refered Page
 - [GitHub Error 404 Page](https://github.com/404)
+
+## Steps of Project
+- Download Files
+- Extract Files
+- Change / Uncommend the 'homepage' in 'Package.json'
+- Install '$ npm' and node modules
+- Add Command '$ npm audit fix --force'
+- Run Project using 'npm start'
+- Build project using '$ npm run build'
