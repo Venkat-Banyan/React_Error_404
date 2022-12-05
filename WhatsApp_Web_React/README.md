@@ -2,7 +2,7 @@
 
 ## Overview
 
-<a href="https://github.com/Venkat-Banyan/Venkat-Banyan/edit/main/WhatsApp_Web_React"><img src="https://github.com/Venkat-Banyan/Venkat-Banyan/blob/main/Google_React_404/Google_404_React_Image.png"></a>
+<a href="https://github.com/Venkat-Banyan/Venkat-Banyan/edit/main/WhatsApp_Web_React"><img src="https://github.com/Venkat-Banyan/Venkat-Banyan/blob/main/WhatsApp_Web_React/Whatsapp_Web_React.png"></a>
 
 
 ## Development Using
