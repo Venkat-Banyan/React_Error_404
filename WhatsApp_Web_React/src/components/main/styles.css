@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,300;1,400&display=swap');
+
+.font-poppins {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.typography-span {
+  color: #777;
+}
+
+.Button {
+  color: aquamarine;
+  background-color: aquamarine;
+}
+
+.typography-container {
+  text-align: center;
+}
+
+.typography_link {
+  font-size: 13px;
+  color: #385898 !important;
+  text-decoration: none !important;
+}
+
+@media (max-width: 440px) {
+  .general {
+    height: auto;
+  }
+
+  .typography-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+  .footer-container {
+    margin-top: 24px;
+  }
+
+  .whatsapp_download_img {
+    width: 100%;
+  }
+
+  .main_logo {
+    width: 100%;
+  }
+
+  .typography-container {
+    padding: 45px 30px 35px 30px !important;
+    margin-top: -150px !important;
+  }
+
+  .font-poppins.title-h5 {
+    font-size: 18px;
+    line-height: 1.8rem;
+  }
+}
+
+@media only screen and (min-width:441px) and (max-width:559px) {
+  .whatsapp_download_img {
+    width: 100%;
+  }
+
+  .main_logo {
+    width: 100%;
+  }
+
+  .typography-container {
+    padding: 45px 30px 35px 30px !important;
+    margin-top: -150px !important;
+  }
+}
+
+@media only screen and (min-width:560px) and (max-width:768px) {
+  .typography-container {
+    margin-top: -140px !important;
+  }
+
+  .whatsapp_download_img {
+    width: 100%;
+  }
+
+  .main_logo {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width:769px) and (max-width:991px) {
+  .typography-container {
+    margin-top: -140px !important;
+  }
+
+  .whatsapp_download_img {
+    width: 100%;
+  }
+
+  .main_logo {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width:992px) {
+  .typography-container {
+    margin-top: -130px !important;
+    margin-bottom: 60px !important;
+  }
+
+  .whatsapp_download_img {
+    width: 100%;
+  }
+
+  .main_logo {
+    width: 80%;
+  }
+}
+
+.typography-container {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 17px 50px 0 rgba(11, 20, 26, .19), 0 12px 15px 0 rgba(11, 20, 26, .24);
+  padding: 45px 45px 35px 45px;
+}
+
+.main-body-ol {
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 16px;
+  padding: 0 0 0 25px !important;
+  list-style-type: decimal;
+  text-align: left;
+}
+
+.main-body-ol li {
+  padding-bottom: 15px;
+}
+
+.typography_link_help {
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 14px !important;
+  color: #008069 !important;
+  text-decoration: none !important;
+  letter-spacing: 0.5px;
+}
+
+.whatsapp_download_img {
+  padding: 60px 0px 20px 0px;
+}
