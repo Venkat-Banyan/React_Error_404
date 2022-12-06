@@ -22,7 +22,6 @@
 ## Steps of Project
 - Download Files
 - Extract Files
-- Change / Uncommend the 'homepage' in 'Package.json'
 - Install '$ npm' and node modules
 - Add Command '$ npm audit fix --force'
 - Run Project using 'npm start'
