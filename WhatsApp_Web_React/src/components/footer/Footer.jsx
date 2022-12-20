@@ -10,7 +10,7 @@ const Footer = () => {
         <Typography className="footer-typography" color="secondary" components="span" align="center"
           sx={{ fontSize: "0.8rem", paddingBottom: 2 }}
         >
-          Developed by @Venkat - <Link href="https://www.banyaninfotech.com/" rel="noopener" className="grid_container_link"> Banyan Infotech</Link> 
+          Developed by Venkat @ <Link href="https://www.banyaninfotech.com/" rel="noopener" className="grid_container_link"> Banyan Infotech</Link> 
         </Typography>
       </Grid>
     </Grid>
