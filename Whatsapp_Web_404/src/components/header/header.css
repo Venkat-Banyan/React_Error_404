@@ -1,0 +1,68 @@
+@media only screen and (min-width:992px) {
+    .header_main_logo {
+        width: 45%;
+        margin-left: 50px;
+    }
+
+    nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+        height: 80px;
+        background-color: rgba(252, 245, 235, .8) !important;
+        -webkit-backdrop-filter: blur(4px) !important;
+        backdrop-filter: blur(4px);
+        transition: background-color .2s cubic-bezier(.42, .00, .58, 1.00);
+    }
+
+    .btn-whatsapp-download {
+        background-color: #25d366;
+        border: 1px solid #1c1e21;
+        border-radius: 50px;
+        color: #1c1e21;
+        line-height: 10px;
+        overflow: hidden;
+        padding: 15px 30px;
+        position: relative;
+        text-align: center;
+        transition: color .33s linear .5s, border-color ease-out .5s, background-color .33s linear 0s;
+        white-space: pre;
+        z-index: 1;
+    }
+
+    .btn-whatsapp-download:hover {
+        background-color: #1c1e21;
+        color: #fff;
+        transition-delay: .5s;
+    }
+}
+
+@media only screen and (max-width:479px) {
+    .header_main_logo {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 20px;
+    }
+}
+
+.btn-whatsapp-download {
+    background-color: #25d366;
+    border: 1px solid #1c1e21;
+    border-radius: 50px;
+    color: #1c1e21;
+    line-height: 10px;
+    overflow: hidden;
+    padding: 15px 30px;
+    position: relative;
+    text-align: center;
+    transition: color .33s linear .5s, border-color ease-out .5s, background-color .33s linear 0s;
+    white-space: pre;
+    z-index: 1;
+}
+
+.btn-whatsapp-download:hover {
+    background-color: #1c1e21;
+    color: #fff;
+    transition-delay: .5s;
+}
+
+.general {
+    background-color: #FCF5EB;
+}

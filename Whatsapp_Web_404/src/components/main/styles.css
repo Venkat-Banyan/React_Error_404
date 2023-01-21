@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,300;1,400&display=swap');
+
+.typography-container {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.typography-span {
+  color: #777;
+}
+
+.Button {
+  color: aquamarine;
+  background-color: aquamarine;
+}
+
+.typography-container {
+  text-align: center;
+}
+
+.typography_link {
+  font-size: 13px;
+  color: #385898 !important;
+  text-decoration: none !important;
+}
+
+@media (max-width: 440px) {
+  .general {
+    height: auto;
+  }
+
+  .typography-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+  .footer-container {
+    margin-top: 24px;
+  }
+}
+
+@media only screen and (min-width:991px) {
+  .error404_bg_3 {
+    margin-top: -20px;
+  }
+
+  .error404_bg_4 {
+    margin-top: -24px;
+  }
+}
+
+.return_page_btn {
+  display: block !important;
+  margin-top: 30px !important;
+  border: 1px solid #1c1e21 !important;
+  background-color: #fff !important;
+  color: #1c1e21 !important;
+  line-height: 16px !important;
+  overflow: hidden;
+  padding: 16px 28px !important;
+  position: relative;
+  border-radius: 50px !important;
+  text-align: center;
+  transition: color .33s linear .5s, border-color ease-out .5s, background-color .33s linear 0s;
+}

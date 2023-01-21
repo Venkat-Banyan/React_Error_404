@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/venkat/React_404/Whatsapp/Whatsapp_404/static/css/main.c2fc803e.css",
+    "main.js": "/venkat/React_404/Whatsapp/Whatsapp_404/static/js/main.57084243.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/venkat/React_404/Whatsapp/Whatsapp_404/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/venkat/React_404/Whatsapp/Whatsapp_404/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/venkat/React_404/Whatsapp/Whatsapp_404/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/venkat/React_404/Whatsapp/Whatsapp_404/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/venkat/React_404/Whatsapp/Whatsapp_404/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/whatsapp_error_404.png": "/venkat/React_404/Whatsapp/Whatsapp_404/static/media/whatsapp_error_404.62e9f9228b4ef24da66b.png",
+    "static/media/Whatsapp_logo.png": "/venkat/React_404/Whatsapp/Whatsapp_404/static/media/Whatsapp_logo.a8df74fe61b9ad1b94f7.png",
+    "index.html": "/venkat/React_404/Whatsapp/Whatsapp_404/index.html",
+    "main.c2fc803e.css.map": "/venkat/React_404/Whatsapp/Whatsapp_404/static/css/main.c2fc803e.css.map",
+    "main.57084243.js.map": "/venkat/React_404/Whatsapp/Whatsapp_404/static/js/main.57084243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2fc803e.css",
+    "static/js/main.57084243.js"
+  ]
+}

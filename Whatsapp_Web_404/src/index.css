@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+  margin: 0;
+}
+
+.grid_container_link {
+  color: #b1b0b0;
+  text-decoration: none !important;
+  opacity: 0.5;
+}
+
+.footer-typography {
+  opacity: 0.5;
+}
